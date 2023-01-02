@@ -1,8 +1,8 @@
 # ✨  AQUARIUM ✨
 
-This is a web based application developed for health related based website in india
+This is a web based application developed for aquarium related based website in india
 
-### This web based health application has been developed for the accomplishment of Future Ready Talent Internship program launched by Microsoft, Future Skills Prime, Quess, Github and EY.
+### This web based aquarium application has been developed for the accomplishment of Future Ready Talent Internship program launched by Microsoft, Future Skills Prime, Quess, Github and EY.
 
 
 **Project Link** -https://proud-sea-029bf8700.2.azurestaticapps.net/
@@ -11,7 +11,7 @@ This is a web based application developed for health related based website in in
 ## Azure technologies used for Project
 
 - Static web apps
-- chat bot
+- health bot
 
 ## Features and Functionalities 
 
@@ -23,7 +23,8 @@ This is a web based application developed for health related based website in in
 - Included the feedback Survey form to increase the scope of improvement 
 - We alsoprovide the chatbot for more information.
 
-## Screenshots
+## Screenshots 
+
 ![Screenshot (465)](https://user-images.githubusercontent.com/117892399/205843727-65daba46-5b67-4d09-8cb2-606e138880a9.png)
 ![Screenshot (466)](https://user-images.githubusercontent.com/117892399/205843881-9f96ec99-9089-49e9-83b4-31494b16c932.png)
 ![Screenshot (467)](https://user-images.githubusercontent.com/117892399/205843897-64ca6661-67b5-4516-8314-1f728721a6f0.png)
@@ -56,7 +57,7 @@ This is a web based application developed for health related based website in in
 ![Screenshot (486)](https://user-images.githubusercontent.com/117892399/205844749-28cbe9c3-5847-48f7-a209-ef8c57a7b9e4.png)
 ![Screenshot (487)](https://user-images.githubusercontent.com/117892399/205844774-8a2a0f00-ce9c-43c7-9146-c78bcaf96961.png)
 
-### chat bot
+### health bot
 
 ![Screenshot (488)](https://user-images.githubusercontent.com/117892399/205844901-4db1821e-ddb5-4cb4-a69f-0936507c0751.png)
 
@@ -67,5 +68,6 @@ This is a web based application developed for health related based website in in
 - [Azure(Hosting)](https://azure.microsoft.com/en-in/features/azure-portal/)
 - HTML
 - CSS
-- JAVA
+- JAVA 
+- BOOTSTRAP
 
